@@ -83,3 +83,7 @@ C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
 C:\Projects\C#\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Projects\C#\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
+C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Projects\C#\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
